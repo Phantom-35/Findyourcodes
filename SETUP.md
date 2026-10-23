@@ -49,8 +49,8 @@ Deutlich günstiger (ca. 40× billiger, etwas ungenauer): `CLAUDE_MODEL=claude-h
 Voraussetzung: [Node.js 22](https://nodejs.org) ist installiert.
 
 ```bash
-git clone https://github.com/phantom-35/findyourcodes.git
-cd findyourcodes
+git clone https://github.com/Phantom-35/Findyourcodes.git
+cd Findyourcodes
 npm install
 cp .env.example .env.local      # Windows: copy .env.example .env.local
 ```
